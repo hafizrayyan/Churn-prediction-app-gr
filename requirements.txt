@@ -1,3 +1,6 @@
 streamlit
+sckit-learn
 pickle
+joblib
 numpy
+pickle
