@@ -3,6 +3,7 @@ After training and evaluating different classifiers, Gradient Boosting was selec
 
 📌 Project Overview
 
+Live App : https://churn-prediction-app-gr-by-hafiz-rayyan-asif.streamlit.app/
 Customer churn prediction helps businesses identify customers who are likely to leave so that preventive actions can be taken.
 This project applies supervised machine learning techniques to predict churn using historical customer data.
 
